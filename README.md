@@ -22,12 +22,12 @@ Este é um simples projeto em HTML e JavaScript que verifica a bandeira de um ca
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/seu-usuario/verificador-bandeira-cartao.git
+    git clone https://github.com/sucloudflare/desafio-copilot-dio/
     ```
 
 2. Navegue até o diretório do projeto:
     ```bash
-    cd verificador-bandeira-cartao
+    cd desafio-copilot-dio
     ```
 
 3. Abra o arquivo [index.html](http://_vscodecontentref_/1) em seu navegador preferido.
@@ -35,10 +35,6 @@ Este é um simples projeto em HTML e JavaScript que verifica a bandeira de um ca
 4. Digite o número do cartão de crédito no campo de entrada e clique no botão "Verificar Bandeira".
 
 5. A bandeira do cartão será exibida abaixo do botão.
-
-## Exemplo
-
-![Exemplo de uso](example.png)
 
 ## Contribuição
 
